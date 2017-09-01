@@ -2,6 +2,7 @@
 ## Module Name     --  websocket
 ## Original Author --  Emmanuel Frecon - emmanuel@sics.se
 ## Patches         --  Adrián Medraño Calvo - amcalvo@prs.de
+## Refactoring     --  Braden R. Napier -- bradynapier@gmail.com
 ## Description:
 ##
 ##    This library implements a WebSocket client library on top of the
